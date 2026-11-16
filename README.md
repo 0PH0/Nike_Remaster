@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Nike+-+Just+Do+It;Novas+Ideias+%26+Funcionalidades;Experiência+Interativa" alt="Animação Nike" />
 
 <!-- ANIMAÇÃO GIF -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Nike animação" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29mbXFueW1zdHdrMHM0N2Z5ZnBsZHU1M3F0NWs2NjVzNW5xeHFmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dmip4DQC0h21KXQr2f/giphy.gif" width="400" alt="Nike animação" />
 
 </div>
 
